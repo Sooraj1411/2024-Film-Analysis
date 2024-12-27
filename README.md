@@ -1,5 +1,7 @@
 # **2024 Film Analysis**
 
+[Dashboard Link](https://github.com/Sooraj1411/2024-Film-Analysis/blob/main/Screenshot%202024-12-27%20183921.png)
+
 ## _Story Behind the Dashboard_
 At the beginning of 2024, what started as a casual habit turned into an insightful Excel dashboard by the year's end. I began casually noting down the films I watched along with their release years in Google Notes on my phone. By the end of the year, I had accumulated a dataset of around 150 films.
 <br>
@@ -25,7 +27,7 @@ The dataset contained 149 rows and multiple columns such as:
 
 ### _General Trends:_
 + Watched the most films (17) released in 2024, followed by 15 films from 2023 and 8 films from 2017.
-+ October was the most popular month, with 22 films watched.
++ Among the all films, 22 films were released in October (the most).
 
 ### _Film-Specific Highlights:_
 + Highest Runtime: Animal (204 min) and Oppenheimer (180 min).
@@ -38,12 +40,3 @@ The dataset contained 149 rows and multiple columns such as:
 
 ### _Box Office Insights:_
 Shawn Levy leads with a box office collection of $637M (from Deadpool 3), while Ridley Scott collected $431M across 4 films.
-
-+ Watched most films (17) released in 2024 year followed by 2023 (15) year and then 2017 (with 8 films).
-+ Highest Runtime film which I watched - Animal(204 min), Oppenheimer(180 min)
-+ 22 films that I watched were released in Oct month (most)
-+ Deadpool 3 & Barbie contributed to most Revenue (28 % each of top 5) generating films.
-+  Watched most films of Riddley Scott (4) whose overall IMDB rating is 7.8 while Christopher Nolan's film has highest IMDB rating of 8.6.
-+  Watched R (49% of top 5) rated films mostly.
-+  Top 5 rating (R, PG-13, Not Rated, N/A, PG) contributed to almost 92% of the total films watched.
-+  Shawn Levy stands on top with 637 million box office collection with only 1 film (Deadpool 3) while Ridley Scott is at 4th with 431 million (despite she has 4 films in the data).
